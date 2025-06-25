@@ -1,0 +1,13 @@
+# Node backend
+blogsy_backend/node_modules/
+
+# dotenv
+*.env
+
+# OS system files
+.DS_Store
+
+# Future frontend
+blogsy_frontend/node_modules/
+dist/
+build/
